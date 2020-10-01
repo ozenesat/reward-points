@@ -2,6 +2,7 @@
   "name": "reward-points",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ozenesat.github.io/reward-points/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
