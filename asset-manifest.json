@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reward-points/static/css/main.01102b2d.chunk.css",
+    "main.js": "/reward-points/static/js/main.386073ae.chunk.js",
+    "main.js.map": "/reward-points/static/js/main.386073ae.chunk.js.map",
+    "runtime-main.js": "/reward-points/static/js/runtime-main.628d2ffd.js",
+    "runtime-main.js.map": "/reward-points/static/js/runtime-main.628d2ffd.js.map",
+    "static/css/2.11829350.chunk.css": "/reward-points/static/css/2.11829350.chunk.css",
+    "static/js/2.b837d2ea.chunk.js": "/reward-points/static/js/2.b837d2ea.chunk.js",
+    "static/js/2.b837d2ea.chunk.js.map": "/reward-points/static/js/2.b837d2ea.chunk.js.map",
+    "index.html": "/reward-points/index.html",
+    "precache-manifest.a9bd81f391ffc7bdeb6bd46a8a58f377.js": "/reward-points/precache-manifest.a9bd81f391ffc7bdeb6bd46a8a58f377.js",
+    "service-worker.js": "/reward-points/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/reward-points/static/css/2.11829350.chunk.css.map",
+    "static/css/main.01102b2d.chunk.css.map": "/reward-points/static/css/main.01102b2d.chunk.css.map",
+    "static/js/2.b837d2ea.chunk.js.LICENSE.txt": "/reward-points/static/js/2.b837d2ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reward-points/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.628d2ffd.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.b837d2ea.chunk.js",
+    "static/css/main.01102b2d.chunk.css",
+    "static/js/main.386073ae.chunk.js"
+  ]
+}
